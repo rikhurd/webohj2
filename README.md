@@ -1,3 +1,3 @@
 # webohj2
 
-Projektin tarkoituksena oli tehdä koti treeni sovellus jossa voi seurata treenin kulkua
+Projektin tarkoituksena oli tehdä kiinteistön jäljittäjä sovellus.
